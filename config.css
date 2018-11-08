@@ -1,0 +1,14 @@
+@import "./mojura/_auto-import.css";
+
+:root {
+    /* Default Colours */
+    --BG_CLR: white;                  /* Background */
+    --TXT_CLR: black;                 /* Text */
+    --BRDR_CLR: lightgrey;            /* Border */
+
+    /* Default Fonts */
+    --TTL_FNT: Helvetica, sans-serif;   /* Title */
+    --BDY_FNT: Verdana,sans-serif;      /* Text body */
+    --BDY_FNT_SIZE: 15px;               /* Text body font size */
+    --BDY_FNT_LNH: 1.5;                 /* Text body line height*/
+}

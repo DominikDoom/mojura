@@ -1,0 +1,16 @@
+body, html {
+    width: 100%;
+    height: 100%;
+
+    margin: 0;
+    padding: 10px;
+
+    box-sizing: border-box;
+
+    background-color: var(--BG_CLR);
+    color: var(--TXT_CLR);
+
+    font-family: var(--BDY_FNT);
+    font-size: var(--BDY_FNT_SIZE);
+    line-height: var(--BDY_FNT_LNH);
+}

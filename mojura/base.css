@@ -14,3 +14,11 @@ body, html {
     font-size: var(--BDY_FNT_SIZE);
     line-height: var(--BDY_FNT_LNH);
 }
+
+p {
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--TTL_FNT);
+}

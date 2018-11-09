@@ -8,8 +8,15 @@
 .center-y {
     position: relative;
     top: 50%;
-    transform: perspective(1px) translateY(-50%);
+    transform: translateY(-50%);
 }
-.text-center-y {
-    vertical-align: middle;
+
+.flex {
+    display: flex;
+}
+.f-column {
+    flex-flow: column;
+}
+.f-row {
+    flex-flow: row;
 }

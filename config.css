@@ -4,7 +4,7 @@
     /* Default Colours */
     --BG_CLR: white;                  /* Background */
     --TXT_CLR: black;                 /* Text */
-    --BRDR_CLR: lightgrey;            /* Border */
+    --BRDR_CLR: #e4e4e4;            /* Border */
 
     /* Default Fonts */
     --TTL_FNT: Helvetica, sans-serif;   /* Title */

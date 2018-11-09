@@ -1,8 +1,8 @@
 .all-border {
-    border: 2px solid var(--BRDR-CLR);
+    border: 2px solid var(--BRDR_CLR);
 }
 
 .float-border {
     border-top: solid 4px;
-    border-color: var(--BRDR-CLR);
+    border-color: var(--BRDR_CLR);
 }
